@@ -8,9 +8,9 @@ type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Federal Government
+  - Government
   - Inspector General
   - Oversight
-  - Government
 url: >-
   https://raw.githubusercontent.com/api-evangelist/office-of-inspector-general/refs/heads/main/apis.yml
 created: '2024-12-25'
