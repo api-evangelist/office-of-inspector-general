@@ -19,6 +19,8 @@ description: >-
   programs and operations, and to prevent and detect fraud, waste, and abuse.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/office-of-inspector-general-domain-security.yml
   - type: Website
     url: https://www.ignet.gov/
   - type: Oversight
