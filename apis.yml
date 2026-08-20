@@ -3,6 +3,11 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/office-of-inspector-general/refs/heads/main/apis.yml
 name: Office of Inspector General
 tags:
+  - Federal-Government
+  - Government
+  - Inspector General
+  - Oversight
+tags_raw:
   - Federal Government
   - Government
   - Inspector General
