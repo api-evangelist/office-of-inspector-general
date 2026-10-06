@@ -39,7 +39,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/office-of-inspector-general.png
 access: 3rd-Party
 created: '2024-12-25'
-modified: '2026-04-28'
+modified: '2026-10-06'
 position: Consuming
 description: >-
   The Office of Inspector General (OIG) conducts audits, investigations,
@@ -47,6 +47,8 @@ description: >-
   programs and operations, and to prevent and detect fraud, waste, and abuse.
 apis: []
 common:
+  - url: https://www.ignet.gov/rss.xml
+    type: BlogRSS
   - type: DomainSecurity
     url: security/office-of-inspector-general-domain-security.yml
   - type: Website
